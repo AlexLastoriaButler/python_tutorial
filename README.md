@@ -2,7 +2,6 @@
 
 [1 Python introduction](https://github.com/AlexLastoriaButler/python_tutorial/blob/main/python_introduction.ipynb)
 <details>
-  <summary></summary>
   
     1.1 What is Python?
   
