@@ -20,23 +20,31 @@
     Exercises
 </details>
 
-[2 Python introduction](https://github.com/AlexLastoriaButler/python_tutorial/blob/main/python_working_with_data.ipynb)
+[2 Working with data](https://github.com/AlexLastoriaButler/python_tutorial/blob/main/python_working_with_data.ipynb)
 <details>
   
   
-    1.1 What is Python?
+    2.1 Setting up Pandas
   
-    1.2 Installing Python
+    2.2 Extract data from an external file into a DataFrame
   
-    1.3 Your First Python Program
+    2.3 View data in a dataframe
   
-    1.4 Variables and Data Types
+    2.4 Extract data from a SQL database into a DataFrame
   
-    1.5 Basic Operations
+    2.5 Limit the variables (columns) in your DataFrame
   
-    1.6 Conditional Statements (IF THEN ELSE)
+    2.6 Import just the top n rows
   
-    1.7 Loops
+    2.7 Import specific columns
+
+    2.8 View data types of DataFrame columns
+
+    2.9 Combine tables vertically and horizontally
+
+    2.10 Perform left joins, right joins, and full joins
+
+    2.11 Output a DataFrame
   
     Exercises
 </details>
