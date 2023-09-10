@@ -1,6 +1,4 @@
 # Introduction
-[1.1 What is Python?](1.1-what-is-python?)
-[1.2 Installing Python](1.2-installing-python)
 
 ## 1.1 What is Python?
 Python is a high-level, interpreted programming language known for its readability and simplicity. It's widely used in data analysis, web development, artificial intelligence, and more.
