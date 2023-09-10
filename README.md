@@ -1,6 +1,6 @@
 # Python tutorial
 
-[1 Python introduction](https://github.com/AlexLastoriaButler/python_tutorial/blob/main/python_introduction.ipynb)
+[1 Python introduction](/content/python_introduction.md)
 <details>
   
     1.1 What is Python?
