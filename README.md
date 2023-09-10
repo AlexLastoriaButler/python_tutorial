@@ -20,7 +20,7 @@
     Exercises
 </details>
 
-[2 Working with data](https://github.com/AlexLastoriaButler/python_tutorial/blob/main/python_working_with_data.ipynb)
+[2 Working with data](/content/python_working_with_data.md)
 <details>
   
   
